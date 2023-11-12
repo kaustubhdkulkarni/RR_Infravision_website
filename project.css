@@ -37,3 +37,18 @@ section-header h3 {
   width: 100%;
   height: 260px;
 }
+.project_home_opt{
+  padding: 5px;
+  border: 1px solid #23b7a4;
+  border-color: #23b7a4;
+  color: #23b7a4;
+  border-radius: 5px;
+}
+
+.project_home_opt:hover {
+  padding: 5px;
+  border: 1px solid #23b7a4;
+  border-color: #23b7a4;
+  color: #23b7a4;
+  border-radius: 5px;
+}
